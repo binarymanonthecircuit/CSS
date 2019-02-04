@@ -4,6 +4,7 @@
 - box-sizing : content-box / border-box; needed to be updated.
 - arrangement attributes, needed to be summarized.
 - animated css needed to be summarized.
+- CSS fluid, CSS flexbox
 
 # Useful Resources.
 1. CSS Box Model Explained : https://www.w3schools.com/css/css_boxmodel.asp

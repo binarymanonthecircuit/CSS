@@ -1,4 +1,7 @@
 # CSS
+- needed to be summarized into 2 categories, 1) paragraph styling 2) box styling 
+- CSS Box Model needed to be summarized.
+- box-sizing : content-box / border-box; needed to be updated.
 
 # Useful Resources.
 1. CSS Box Model Explained : https://www.w3schools.com/css/css_boxmodel.asp
